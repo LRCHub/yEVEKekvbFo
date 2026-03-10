@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "葛飾ラプソディー",
+  "base_artist": "堂島孝平",
+  "createdAt": "2026-03-10T00:54:03.982506Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "葛飾ラプソディー",
+      "artist": "Kohei Dojima",
+      "has_synced": false,
+      "path": "select/01_葛飾ラプソディー_Kohei_Dojima.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "葛飾ラプソディー - Katsushika Rhapsody",
+      "artist": "Kohei Dojima",
+      "has_synced": true,
+      "path": "select/02_葛飾ラプソディー_-_Katsushika_Rhapsody_Kohei_Dojima.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "葛飾ラプソディー",
+      "artist": "堂島孝平",
+      "has_synced": true,
+      "path": "select/03_葛飾ラプソディー_堂島孝平.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "葛飾ラプソディー",
+      "artist": "堂島 孝平",
+      "has_synced": false,
+      "path": "select/pl_01_葛飾ラプソディー_堂島_孝平.txt"
+    }
+  ]
+}
